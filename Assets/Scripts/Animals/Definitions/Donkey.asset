@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93a12c11f9c945a4ea1ef8de82606cce, type: 3}
+  m_Name: Donkey
+  m_EditorClassIdentifier: 
+  avatar: {fileID: 2068722780, guid: f6f68ae118d4d884a9dbd9b7a6adfd58, type: 3}
+  tagColor: {r: 0.6627451, g: 0.8980393, b: 0.45098042, a: 1}
+  size: 2
+  price: 30
+  unlockPrice: 1000
+  skinnedObject: {fileID: 1182354867594484, guid: 5cc1c028804881c498056796e4bd09d2, type: 3}
+  staticObject: {fileID: 8972769647628784463, guid: 98162ade3e245e44c8718d7c18a8b4f2, type: 3}
+  radiusOfWander: 10
+  speed: 3

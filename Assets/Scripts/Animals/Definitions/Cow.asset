@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93a12c11f9c945a4ea1ef8de82606cce, type: 3}
+  m_Name: Cow
+  m_EditorClassIdentifier: 
+  avatar: {fileID: -769551703, guid: f6f68ae118d4d884a9dbd9b7a6adfd58, type: 3}
+  tagColor: {r: 1, g: 0.5137255, b: 0.6, a: 1}
+  size: 4
+  price: 40
+  unlockPrice: 0
+  skinnedObject: {fileID: 1812080586431448, guid: 509c72f8332683547aac798c82fa7a50, type: 3}
+  staticObject: {fileID: 8972769647628784463, guid: a4459241668f71c4b90faa7fc35c824f, type: 3}
+  radiusOfWander: 15
+  speed: 1

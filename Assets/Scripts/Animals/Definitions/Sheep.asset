@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93a12c11f9c945a4ea1ef8de82606cce, type: 3}
+  m_Name: Sheep
+  m_EditorClassIdentifier: 
+  avatar: {fileID: 557656836, guid: f6f68ae118d4d884a9dbd9b7a6adfd58, type: 3}
+  tagColor: {r: 0.9568628, g: 0.90196085, b: 0.37647063, a: 1}
+  size: 2
+  price: 25
+  unlockPrice: 0
+  skinnedObject: {fileID: 1045621966711074, guid: aed95bfba8cc7014aa8bbd2487632098, type: 3}
+  staticObject: {fileID: 451591244518920034, guid: 91e1400437b4bcc498b762d405b7f347, type: 3}
+  radiusOfWander: 10
+  speed: 2
